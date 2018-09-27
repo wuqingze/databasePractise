@@ -1,0 +1,84 @@
+	175	
+Combine Two Tables    		44.3%	Easy	
+176	
+Second Highest Salary    		24.0%	Easy	
+177	
+Nth Highest Salary    		22.1%	Medium	
+178	
+Rank Scores    		31.2%	Medium	
+180	
+Consecutive Numbers    		29.1%	Medium	
+181	
+Employees Earning More Than Their Managers    		41.0%	Easy	
+182	
+Duplicate Emails    		48.1%	Easy	
+183	
+Customers Who Never Order    		38.8%	Easy	
+184	
+Department Highest Salary    		23.9%	Medium	
+185	
+Department Top Three Salaries    		20.9%	Hard	
+196	
+Delete Duplicate Emails    		27.0%	Easy	
+197	
+Rising Temperature    		31.8%	Easy	
+262	
+Trips and Users    		20.7%	Hard	
+569	
+Median Employee Salary    		39.1%	Hard	
+570	
+Managers with at Least 5 Direct Reports    		57.7%	Medium	
+571	
+Find Median Given Frequency of Numbers    		43.0%	Hard	
+574	
+Winning Candidate    		34.2%	Medium	
+577	
+Employee Bonus    		52.1%	Easy	
+578	
+Get Highest Answer Rate Question    		31.3%	Medium	
+579	
+Find Cumulative Salary of an Employee    		30.3%	Hard	
+580	
+Count Student Number in Departments    		39.2%	Medium	
+584	
+Find Customer Referee    		62.4%	Easy	
+585	
+Investments in 2016    		44.4%	Medium	
+586	
+Customer Placing the Largest Number of Orders    		61.2%	Easy	
+595	
+Big Countries    		71.7%	Easy	
+596	
+Classes More Than 5 Students    		32.4%	Easy	
+597	
+Friend Requests I: Overall Acceptance Rate    		38.0%	Easy	
+601	
+Human Traffic of Stadium    		33.6%	Hard	
+602	
+Friend Requests II: Who Has the Most Friends    		42.3%	Medium	
+603	
+Consecutive Available Seats    		53.8%	Easy	
+607	
+Sales Person    		49.9%	Easy	
+608	
+Tree Node    		54.0%	Medium	
+610	
+Triangle Judgement    		58.3%	Easy	
+612	
+Shortest Distance in a Plane    		51.3%	Medium	
+613	
+Shortest Distance in a Line    		70.1%	Easy	
+614	
+Second Degree Follower    		23.1%	Medium	
+615	
+Average Salary: Departments VS Company    		32.1%	Hard	
+618	
+Students Report By Geography    		40.1%	Hard	
+619	
+Biggest Single Number    		36.1%	Easy	
+620	
+Not Boring Movies    		59.4%	Easy	
+626	
+Exchange Seats    		49.0%	Medium	
+627	
+Swap Salary    		67.2%	Easy	
